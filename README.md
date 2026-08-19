@@ -59,6 +59,6 @@ of its architecture back.
 
 ## Activity
 
-<img src="https://streak-stats.demolab.com/?user=sergiogoqui-cpu&theme=default&hide_border=true" alt="GitHub streak stats" />
-
-<sub>Most of my commits are on private repos — <a href="https://github.com/settings/profile">private contributions</a> are included above where GitHub allows it.</sub>
+Most of my commits are on private client repos — the contribution graph
+below includes them, since GitHub allows showing private activity
+without exposing any code.

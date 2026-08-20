@@ -36,6 +36,12 @@ and purged/embargoed k-fold CV. Extracted from a real trading system
 into a standalone, tested package.
 [![CI](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/actions/workflows/ci.yml)
 
+**[vercel-guardian](https://github.com/sergiogoqui-cpu/vercel-guardian)**
+— a Vercel deployment/config auditor for CI: catches broken production
+deployments, missing analytics, and config drift, with secret
+redaction built into every report it writes.
+[![CI](https://github.com/sergiogoqui-cpu/vercel-guardian/actions/workflows/ci.yml/badge.svg)](https://github.com/sergiogoqui-cpu/vercel-guardian/actions/workflows/ci.yml)
+
 **[graphify-template](https://github.com/sergiogoqui-cpu/graphify-template)**
 — a Claude Code project template pre-wired with a knowledge-graph
 extraction skill: point it at any codebase and get a queryable graph
@@ -57,7 +63,13 @@ of its architecture back.
 <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
 </p>
 
-## Activity
+## Recent activity
+
+<!--RECENT_ACTIVITY:START-->
+- Opened [#2](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/2) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add a CLI entrypoint for one-off calculations — _today_
+- Opened [#1](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/1) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add Sortino ratio (downside-deviation-adjusted return metric) — _today_
+- Released [v0.1.0](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/releases/tag/v0.1.0) of [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit) — _today_
+<!--RECENT_ACTIVITY:END-->
 
 Most of my commits are on private client repos — the contribution graph
 below includes them, since GitHub allows showing private activity

@@ -6,6 +6,8 @@
   <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=18&pause=1200&color=4E79A7&center=true&vCenter=true&width=560&lines=Backend+%2F+full-stack+engineer;Building+production+systems%2C+not+demos;Python+%C2%B7+TypeScript+%C2%B7+Next.js+%C2%B7+FastAPI" alt="typing banner" />
 </a>
 
+Cali, Colombia · [LinkedIn](https://www.linkedin.com/in/sergio-gomez-9b68a6375/)
+
 </div>
 
 I build and operate production backend systems end to end — from data

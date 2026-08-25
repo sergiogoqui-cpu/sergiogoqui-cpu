@@ -68,9 +68,9 @@ of its architecture back.
 ## Recent activity
 
 <!--RECENT_ACTIVITY:START-->
-- Opened [#2](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/2) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add a CLI entrypoint for one-off calculations — _4d ago_
-- Opened [#1](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/1) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add Sortino ratio (downside-deviation-adjusted return metric) — _4d ago_
-- Released [v0.1.0](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/releases/tag/v0.1.0) of [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit) — _4d ago_
+- Opened [#2](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/2) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add a CLI entrypoint for one-off calculations — _5d ago_
+- Opened [#1](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/issues/1) in [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit): Add Sortino ratio (downside-deviation-adjusted return metric) — _5d ago_
+- Released [v0.1.0](https://github.com/sergiogoqui-cpu/strategy-robustness-kit/releases/tag/v0.1.0) of [sergiogoqui-cpu/strategy-robustness-kit](https://github.com/sergiogoqui-cpu/strategy-robustness-kit) — _5d ago_
 <!--RECENT_ACTIVITY:END-->
 
 Most of my commits are on private client repos — the contribution graph
